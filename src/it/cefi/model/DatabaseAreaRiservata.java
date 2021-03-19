@@ -13,7 +13,7 @@ public class DatabaseAreaRiservata {
 	
 	private static final String HOST= "jdbc:mysql://localhost:3306/webshop?serverTimezone=UTC";
 	private static final String USERNAME = "root";
-	private static final String PASSWORD = "Goldberg91";
+	private static final String PASSWORD = "YOUR PASSWORD";
 	
 	//costruttore privato ancora meglio di dichiararla abstract
 	private DatabaseAreaRiservata() { }
